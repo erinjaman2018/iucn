@@ -180,9 +180,9 @@ body{
 }
 .right_se{
 	float: left;
-    width:128px;
+    width: 128px;
     padding: 7px 2px;
-    border: 1px solid gray;
+    border: 1px solid #2e7ca1;
 }
 .icon_i{
 	float: right;
